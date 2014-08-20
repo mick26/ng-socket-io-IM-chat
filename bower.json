@@ -1,0 +1,23 @@
+{
+  "name": "Socket-io-IM",
+  "version": "0.0.1",
+  "authors": [
+    "Michael Cullen"
+  ],
+  "description": "Socket IO Instant Messaging App",
+  "ignore": [
+    "**/*.txt",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "angular": "~1.2.21",
+    "angular-route": "~1.2.21",
+    "socket.io-client": "~1.0.6"
+  },
+  "license": "MIT",
+  "private": true
+}
