@@ -30,6 +30,15 @@ Note if you wish to run the App on a different port you will need to edit the fo
 
 
 
+## Screen Shot
+
+
+<div align="center">
+		<img width="90%" src="screen-shots/IM-chat.PNG" alt="IM Chat screen shot" title="IM Chat screen shot"</img>
+</div>
+
+
+
 <hr>
 
 Michael Cullen 2014
