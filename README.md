@@ -34,7 +34,7 @@ Note if you wish to run the App on a different port you will need to edit the fo
 
 
 <div align="center">
-		<img width="90%" src="screen-shots/IM-chat.PNG" alt="IM Chat screen shot" title="IM Chat screen shot"</img>
+		<img width="90%" src="screen-shots/IM-chat.png" alt="IM Chat screen shot" title="IM Chat screen shot"</img>
 </div>
 
 
